@@ -1,0 +1,19 @@
+body{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.colorbtn{
+padding:0.25rem 0.5rem;
+border:3px solid white;
+border-radius: 7px;
+color:white;
+background: rgba(0,0,0,.6);
+cursor:pointer;
+}
+.colorbtn:hover{
+    background: black;
+
+
+}
