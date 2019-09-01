@@ -9,4 +9,4 @@ function changeColor(){
     let random=Math.floor(Math.random()*colors.length)
 
     colorBcg.style.backgroundColor = colors[random];
-}0
+}
